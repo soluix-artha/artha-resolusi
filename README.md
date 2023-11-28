@@ -4,4 +4,4 @@ belajar buat kedepan jadi lancar
 
 ## subheader
 
-mencoba menyeting hal
+cara mempush local ke repository
