@@ -4,4 +4,4 @@ belajar buat kedepan jadi lancar
 
 ## subheader
 
-cara mempush local ke repository
+mencoba merubah perintah message commit
