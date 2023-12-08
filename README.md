@@ -1,7 +1,7 @@
 # artha-resolusi
-kembali mengingat perintah git
+melancarkan command comand pada git
 
 
 ## subheader
 
-melatih lagi tentang git coba 123
+harus bisa dan pasti bisa karena belajar terus
