@@ -7,4 +7,4 @@ ss
 
 ## subheader
 
-semoga ada hasil dari yang dipelajarin
+mencoba commaand git commit
