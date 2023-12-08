@@ -1,7 +1,10 @@
 # artha-resolusi
-melancarkan command comand pada git
-
+save terlebih dahulu 
+lalu jalankan perintah git add
+lalu commit yang udh ada
+lalu push origin main
+ss
 
 ## subheader
 
-harus bisa dan pasti bisa karena belajar terus
+semoga ada hasil dari yang dipelajarin
