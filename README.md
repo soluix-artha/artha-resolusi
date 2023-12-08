@@ -1,7 +1,7 @@
 # artha-resolusi
-belajar buat kedepan jadi lancar
+kembali mengingat perintah git
 
 
 ## subheader
 
-mencoba merubah perintah message commit
+melatih lagi tentang git coba 123
